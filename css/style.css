@@ -98,6 +98,7 @@ main {
 .img-section {
     background-image: linear-gradient(0deg, hsl(277, 64%, 61%), hsl(277, 64%, 61%)), url("../img/image-header-desktop.jpg");
     background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
     width: 100%;
